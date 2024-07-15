@@ -10,7 +10,7 @@ The program is divided into (4) steps
 
 * [Step 3](#step-3): Relate the search traffic to stock price patterns
 
-* Step 4: Create a time series model with Prophet
+* [Step 4](#step-4): Create a time series model with Prophet
 
 ## Step 1
 ### Find unusual patterns in hourly Google search traffic
